@@ -1,4 +1,4 @@
 # vanilla-javascript
 
-var : 변수
-let : 상수
+let : 변수
+const : 상수
