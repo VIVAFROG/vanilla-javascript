@@ -1,4 +1,5 @@
-console.log("Im Working. Im JS. Im Beautiful, Im worth it");
-const a = 221;
-let b = a - 5;
-console.log(b, a);
+const title = document.querySelector("#title")
+
+title.innerHTML= "Hi from JS"
+title.style.color="Red"
+document.title = "abc"
