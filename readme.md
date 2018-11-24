@@ -9,3 +9,8 @@ camel case : space 필요할 떄 대문자
 ``  back tick : 'as ${variable} `
 '' signle 
 " double
+
+비교 : === 3개
+rgb("r", "g", "b") rgb간 띄어쓰기 해야함
+
+javascript dom event mdn 검색
